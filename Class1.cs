@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Program.cs
 {
+//hello
     internal class Class1
     {
         //prazna metoda
