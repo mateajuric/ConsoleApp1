@@ -8,5 +8,6 @@ namespace Program.cs
 {
     internal class Class1
     {
+        //prazna metoda
     }
 }
