@@ -9,7 +9,6 @@ namespace Program.cs
 //hello
     internal class Class1
     {
-<<<<<<< HEAD
         //prazna metoda
 
     }
